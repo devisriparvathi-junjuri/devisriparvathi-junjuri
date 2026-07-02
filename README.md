@@ -144,8 +144,6 @@ End-to-end Machine Learning and Data Analytics project.
 
 ---
 
-# 📈 GitHub Statistics
-
 # 📈 GitHub Analytics
 
 <p align="center">
@@ -157,6 +155,7 @@ End-to-end Machine Learning and Data Analytics project.
   <img width="70%" src="https://streak-stats.demolab.com?user=devisriparvathi-junjuri&theme=tokyonight&hide_border=true"/>
 </p>
 ---
+
 # 📊 Contribution Graph
 
 [![Devi Sri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devisriparvathi-junjuri&theme=tokyo-night)](https://github.com/devisriparvathi-junjuri)
