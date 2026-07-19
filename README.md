@@ -7,9 +7,6 @@
 <p>
 Turning raw data into meaningful business insights through analytics, automation, and machine learning.
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=devisriparvathi-junjuri&label=Profile%20Views&color=0e75b6&style=flat" />
-
 </div>
 
 ---
