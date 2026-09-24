@@ -259,26 +259,6 @@ My approach:
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=devisriparvathi-junjuri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Statistics"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devisriparvathi-junjuri&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devisriparvathi-junjuri&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Activity
 
 <div align="center">
