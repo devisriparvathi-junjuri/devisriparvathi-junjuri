@@ -1,134 +1,173 @@
+
+<!-- ===================================================== -->
+<!--                 PROFILE HEADER                        -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-# 👋 Hi, I'm Devi Sri Parvathi Junjuri
+  <!-- Animated Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Devi+Sri+Parvathi+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;Aspiring+Software+Engineer+%7C+Data+%26+AI+Enthusiast;Building+Practical+Technology+Solutions" alt="Typing SVG" />
+  </a>
 
-### 🚀 Aspiring Data Analyst | Python • Machine Learning • SQL • Microsoft Excel • Tableau
+  <br/>
 
-<p>
-Turning raw data into meaningful business insights through analytics, automation, and machine learning.
-</p>
+  <p>
+    <strong>Computer Science Student | Software Engineering | Data & AI</strong>
+  </p>
+
+  <p>
+    I build practical projects across software development,
+    data analytics, machine learning, and automation.
+    <br/>
+    Focused on strengthening my fundamentals and creating
+    solutions that solve real-world problems.
+  </p>
+
+  <p>
+    <a href="https://github.com/devisriparvathi-junjuri">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=devisriparvathi-junjuri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-🎓 B.Sc. Computer Science Student
+Hi! I'm **Devi Sri Parvathi Junjuri**, a B.Sc. Computer Science student passionate about building technology solutions through programming, data, and artificial intelligence.
 
-📊 Passionate about solving real-world business problems using data.
+I'm exploring multiple areas of software engineering while developing a strong foundation in computer science, problem-solving, and practical project development.
 
-💡 Currently focused on:
+- 🎓 Pursuing B.Sc. Computer Science
+- 💻 Interested in Software Engineering and Python Development
+- 📊 Exploring Data Analytics and Business Intelligence
+- 🤖 Learning Machine Learning and AI-based applications
+- 🗄️ Practicing SQL, Database Management, and Data Processing
+- 🛠️ Building projects to strengthen development and analytical skills
+- 🌱 Focused on continuous learning and hands-on implementation
 
+### 🎯 Career Direction
+
+My goal is to become a technology professional who can design, develop, and deliver practical software and data-driven solutions.
+
+I'm open to opportunities in:
+
+- Software Engineering
+- Python Development
 - Data Analytics
-- SQL
+- Backend Development
+- AI / Machine Learning
+
+---
+
+## 🛠️ Technical Skills
+
+### 👩‍💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java,sql" alt="Programming Languages"/>
+</p>
+
 - Python
-- Machine Learning
+- C
+- SQL
+- Java *(Learning / Expanding)*
+
+### ⚙️ Software Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux" alt="Software Engineering Tools"/>
+</p>
+
+- Programming Fundamentals
+- Object-Oriented Programming
+- Data Structures and Algorithms *(Learning)*
+- Problem Solving
+- Python Development
+- Version Control with Git
+- Backend Development *(Learning)*
+
+### 📊 Data Analytics & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+</p>
+
+- Python for Data Analysis
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Exploratory Data Analysis
+- Feature Engineering
+- Supervised Machine Learning
+- Model Evaluation
+- Business Analytics
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" alt="Databases"/>
+</p>
+
+- SQL
+- PostgreSQL
+- Database Design
+- Data Cleaning and Validation
+- Business Queries
+- Views and Analytical Queries
+
+### 📈 Data Visualization & BI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Data Visualization"/>
+</p>
+
 - Tableau
-- Business Intelligence
+- Microsoft Power BI
+- Matplotlib
+- Seaborn
+- Dashboard Development
+- KPI Analysis
+- Data Storytelling
 
-🎯 Career Goal
-
-Become a Data Analyst who can build end-to-end data solutions, automate workflows, and support business decisions using data.
-
----
-
-# 🚀 Currently Building
-
-✅ Customer Churn Analytics Platform
-
-🔄 Tableau Business Dashboard
-
-🔄 Customer Risk Scoring System
-
-🔄 Python Automation for Data Analysis
-
----
-
-# 🛠 Tech Stack
-
-## Languages
+### ☁️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,googlecloud" alt="Tools and Platforms"/>
 </p>
----
 
-## Data Science
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
-
-</p>
+- Git & GitHub
+- Visual Studio Code
+- Jupyter Notebook
+- Google Cloud *(Learning)*
+- Microsoft Excel
+- PostgreSQL / pgAdmin
 
 ---
 
-## 🗄️ Databases
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+## 🚀 Featured Projects
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+### 📊 Customer Churn Analytics Platform
 
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
----
+**Python | SQL | Machine Learning | Tableau**
 
-## Visualization
+An end-to-end customer churn analytics project designed to analyze customer behavior, identify churn patterns, and support data-driven business decisions.
 
-<p>
+#### Key Features
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
-
-</p>
-
----
-## 🛠️ Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
----
-
-# 📂 Featured Projects
-
-## 📊 Customer Churn Analytics Platform
-
-End-to-end Machine Learning and Data Analytics project.
-
-### Project Highlights
-
-- Data Cleaning
+- Data Cleaning and Preprocessing
 - Exploratory Data Analysis
 - SQL Business Analysis
 - Feature Engineering
@@ -136,44 +175,155 @@ End-to-end Machine Learning and Data Analytics project.
 - Random Forest
 - XGBoost
 - Model Comparison
-- Customer Risk Scoring *(In Progress)*
-- Tableau Dashboard *(In Progress)*
+- Customer Risk Scoring
+- Dashboard Development
 
----
-# 📊 Contribution Graph
-
-[![Devi Sri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devisriparvathi-junjuri&theme=tokyo-night)](https://github.com/devisriparvathi-junjuri)
-
-# 🎯 2026 Goals
-
-- ✅ Master SQL
-- ✅ Become Advanced in Python
-- 🔄 Build 10 End-to-End Data Projects
-- 🔄 Learn Advanced Tableau
-- 🔄 Learn Power BI
-- 🔄 Learn ETL & Automation
-- 🔄 Crack a Data Analyst Role
+🔗 **Repository:** [Customer Churn Analytics](https://github.com/devisriparvathi-junjuri/Customer_Churn_Analytics.git)
 
 ---
 
-# 🌐 Connect With Me
+### 🛒 Olist E-commerce Sales Analytics
 
-<p>
+**PostgreSQL | SQL | Power BI | Tableau**
 
-<a href="https://www.linkedin.com/in/devi-sri-parvathi-junjuri-24a9123b6/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+An e-commerce analytics project focused on transforming raw transactional data into structured business insights.
 
-<a href="mailto:junjuridevi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
+#### Key Features
 
-</p>
+- Relational Database Design
+- PostgreSQL Tables and Constraints
+- SQL Data Quality Checks
+- Exploratory and Business Analysis
+- Analytical Views
+- Sales and Delivery Performance Analysis
+- Executive KPI Dashboard
+
+🔗 **Repository:** [Olist E-commerce Sales Analytics](https://github.com/devisriparvathi-junjuri/olist-ecommerce-sales-analytics.git)
 
 ---
+
+### 🐍 Python Practice & Problem Solving
+
+**Python | Programming Fundamentals | Data Structures**
+
+A structured learning repository for strengthening Python programming skills from beginner to advanced concepts.
+
+#### Topics
+
+- Variables and Data Types
+- Control Flow
+- Functions
+- Collections
+- Object-Oriented Programming
+- Exception Handling
+- File Handling
+- Modules and Packages
+- Data Structures
+- Problem Solving
+
+🔗 **Repository:** Add your Python practice repository link here.
+
+---
+
+## 🧠 Current Learning Focus
 
 <div align="center">
 
-### ⭐ "Without data, you're just another person with an opinion."
+| Area | Focus |
+|------|-------|
+| Software Engineering | Programming, OOP, DSA |
+| Python | Advanced Python and Development |
+| Backend | APIs, Databases, Server-Side Development |
+| Data Analytics | SQL, Excel, BI |
+| AI / ML | Machine Learning and AI Applications |
+| Cloud | Cloud Fundamentals and Deployment |
+
+</div>
+
+---
+
+## 📚 Learning Philosophy
+
+> Learn the fundamentals. Build practical projects. Understand the problem. Improve through implementation.
+
+I'm focusing on developing strong technical foundations rather than learning tools in isolation.
+
+My approach:
+
+- Understand the concepts
+- Practice through coding
+- Build real-world projects
+- Debug and improve solutions
+- Document what I learn
+- Continuously strengthen problem-solving skills
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=devisriparvathi-junjuri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Statistics"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devisriparvathi-junjuri&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devisriparvathi-junjuri&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 🎯 2026–2027 Goals
+
+- [x] Build practical analytics projects
+- [x] Practice SQL and database workflows
+- [ ] Strengthen Python programming
+- [ ] Improve Data Structures and Algorithms
+- [ ] Build software engineering projects
+- [ ] Develop backend development skills
+- [ ] Explore AI-integrated applications
+- [ ] Learn cloud deployment fundamentals
+- [ ] Build a strong, project-focused portfolio
+- [ ] Prepare for software and data-related opportunities
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in learning, collaborating on projects, and connecting with people in technology.
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+
+  <br/><br/>
+
+  **Thank you for visiting my profile! 🚀**
+
+  <br/>
+
+  *Always learning. Always building. Always improving.*
 
 </div>
