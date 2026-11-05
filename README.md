@@ -123,10 +123,10 @@
 <br/><br/>
 
 <div align="center">
-  <table border="0">
+  <table border="0" cellspacing="10" cellpadding="0">
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devisriparvathi-junjuri&show_icons=true&theme=tokyonight&bg_color=0b1120&border_color=1e293b&title_color=00f2fe&icon_color=a855f7&text_color=94a3b8" alt="GitHub Stats" width="100%"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devisriparvathi-junjuri&theme=nightowl" alt="GitHub Profile Stats" width="100%"/>
       </td>
       <td valign="top" width="50%">
         <img src="https://streak-stats.demolab.com?user=devisriparvathi-junjuri&theme=tokyonight&background=0b1120&border=1e293b&stroke=00f2fe&ring=a855f7&fire=00f2fe&currStreakLabel=00f2fe&sideLabels=94a3b8&dates=64748b" alt="Contribution Streak" width="100%"/>
@@ -134,13 +134,17 @@
     </tr>
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devisriparvathi-junjuri&layout=compact&theme=tokyonight&bg_color=0b1120&border_color=1e293b&title_color=00f2fe&text_color=94a3b8" alt="Top Languages" width="100%"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devisriparvathi-junjuri&theme=nightowl" alt="Top Languages by Commit" width="100%"/>
       </td>
       <td valign="top" width="50%">
-        <img src="https://github-activity-graph.vercel.app/graph?username=devisriparvathi-junjuri&bg_color=0b1120&color=00f2fe&line=a855f7&point=38bdf8&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devisriparvathi-junjuri&theme=nightowl" alt="Top Languages by Repository" width="100%"/>
       </td>
     </tr>
   </table>
+
+  <br/>
+
+  <img src="https://github-activity-graph.vercel.app/graph?username=devisriparvathi-junjuri&bg_color=0b1120&color=00f2fe&line=a855f7&point=38bdf8&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
