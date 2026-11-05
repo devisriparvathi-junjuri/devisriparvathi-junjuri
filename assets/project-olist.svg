@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" width="100%" height="100%">
+  <defs>
+    <linearGradient id="olistBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e0e1f" />
+      <stop offset="60%" stop-color="#141126" />
+      <stop offset="100%" stop-color="#080814" />
+    </linearGradient>
+
+    <linearGradient id="olistBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0.4" />
+    </linearGradient>
+
+    <linearGradient id="violetText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="50%" stop-color="#c084fc" />
+      <stop offset="100%" stop-color="#a855f7" />
+    </linearGradient>
+
+    <pattern id="cardPattern2" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#475569" stroke-width="0.5" stroke-opacity="0.18" />
+    </pattern>
+
+    <style>
+      .mono { font-family: 'Fira Code', 'Courier New', monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif; }
+      .badge { font-size: 10px; font-weight: 700; letter-spacing: 1px; }
+      .title { font-size: 21px; font-weight: 800; }
+      .desc { font-size: 13.5px; fill: #cbd5e1; line-height: 1.5; }
+      .tech-pill { font-size: 11px; font-weight: 600; fill: #c084fc; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect x="2" y="2" width="896" height="226" rx="14" fill="url(#olistBg)" stroke="url(#olistBorder)" stroke-width="1.5" />
+  <rect x="2" y="2" width="896" height="226" rx="14" fill="url(#cardPattern2)" />
+
+  <!-- Top Accent Bar -->
+  <path d="M 14 2 L 180 2" stroke="#a855f7" stroke-width="3" stroke-linecap="round" />
+
+  <!-- Left Telemetry Icon Box -->
+  <g transform="translate(32, 34)">
+    <rect x="0" y="0" width="56" height="56" rx="12" fill="#581c87" fill-opacity="0.25" stroke="#9333ea" stroke-width="1.2" />
+    <!-- Database cylinder icon -->
+    <ellipse cx="28" cy="19" rx="15" ry="5.5" fill="none" stroke="#c084fc" stroke-width="2" />
+    <path d="M 13 19 L 13 36 C 13 39.5 28 41 28 41 C 28 41 43 39.5 43 36 L 43 19" fill="none" stroke="#c084fc" stroke-width="2" />
+    <path d="M 13 28 C 13 31.5 28 33 28 33 C 28 33 43 31.5 43 28" fill="none" stroke="#c084fc" stroke-width="2" />
+  </g>
+
+  <!-- Header Info -->
+  <g transform="translate(104, 38)">
+    <!-- Category Badge -->
+    <rect x="0" y="0" width="240" height="20" rx="5" fill="#581c87" fill-opacity="0.25" stroke="#a855f7" stroke-width="1" stroke-opacity="0.5" />
+    <text x="8" y="14" fill="#c084fc" class="mono badge">◈ DATABASE &amp; BUSINESS INTELLIGENCE</text>
+
+    <!-- Title -->
+    <text x="0" y="44" fill="url(#violetText)" class="sans title">Olist E-commerce Sales Analytics</text>
+  </g>
+
+  <!-- Description -->
+  <g transform="translate(104, 110)">
+    <text x="0" y="0" class="sans desc">
+      Comprehensive transactional data engineering architecture featuring PostgreSQL normalized schema design,
+    </text>
+    <text x="0" y="20" class="sans desc">
+      rigorous data quality validation checks, analytical SQL views, and executive KPI dashboards in Power BI and Tableau.
+    </text>
+  </g>
+
+  <!-- Feature Tags / Tech Stack Row -->
+  <g transform="translate(104, 164)">
+    <!-- Pill 1 -->
+    <rect x="0" y="0" width="105" height="24" rx="6" fill="#1e1b4b" stroke="#312e81" stroke-width="1" />
+    <text x="12" y="16" class="mono tech-pill">PostgreSQL</text>
+
+    <!-- Pill 2 -->
+    <rect x="113" y="0" width="108" height="24" rx="6" fill="#1e1b4b" stroke="#312e81" stroke-width="1" />
+    <text x="12" y="16" class="mono tech-pill">Advanced SQL</text>
+
+    <!-- Pill 3 -->
+    <rect x="229" y="0" width="86" height="24" rx="6" fill="#1e1b4b" stroke="#312e81" stroke-width="1" />
+    <text x="12" y="16" class="mono tech-pill">Power BI</text>
+
+    <!-- Pill 4 -->
+    <rect x="323" y="0" width="82" height="24" rx="6" fill="#1e1b4b" stroke="#312e81" stroke-width="1" />
+    <text x="12" y="16" class="mono tech-pill">Tableau</text>
+
+    <!-- Pill 5 -->
+    <rect x="413" y="0" width="122" height="24" rx="6" fill="#1e1b4b" stroke="#312e81" stroke-width="1" />
+    <text x="12" y="16" class="mono tech-pill">Data Modeling</text>
+  </g>
+
+  <!-- Right Side Visual / Button -->
+  <g transform="translate(710, 160)">
+    <rect x="0" y="0" width="156" height="32" rx="8" fill="#a855f7" fill-opacity="0.15" stroke="#a855f7" stroke-width="1.2" />
+    <text x="20" y="21" class="mono" font-size="12" font-weight="700" fill="#c084fc">VIEW REPO ➔</text>
+  </g>
+</svg>

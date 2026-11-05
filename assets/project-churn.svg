@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" width="100%" height="100%">
+  <defs>
+    <linearGradient id="churnBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a101f" />
+      <stop offset="60%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#070c18" />
+    </linearGradient>
+
+    <linearGradient id="churnBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0.3" />
+    </linearGradient>
+
+    <linearGradient id="cyanText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="50%" stop-color="#00f2fe" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+
+    <pattern id="cardPattern" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#334155" stroke-width="0.5" stroke-opacity="0.2" />
+    </pattern>
+
+    <style>
+      .mono { font-family: 'Fira Code', 'Courier New', monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif; }
+      .badge { font-size: 10px; font-weight: 700; letter-spacing: 1px; }
+      .title { font-size: 21px; font-weight: 800; }
+      .desc { font-size: 13.5px; fill: #cbd5e1; line-height: 1.5; }
+      .tech-pill { font-size: 11px; font-weight: 600; fill: #38bdf8; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect x="2" y="2" width="896" height="226" rx="14" fill="url(#churnBg)" stroke="url(#churnBorder)" stroke-width="1.5" />
+  <rect x="2" y="2" width="896" height="226" rx="14" fill="url(#cardPattern)" />
+
+  <!-- Top Accent Bar -->
+  <path d="M 14 2 L 180 2" stroke="#00f2fe" stroke-width="3" stroke-linecap="round" />
+
+  <!-- Left Telemetry Icon Box -->
+  <g transform="translate(32, 34)">
+    <rect x="0" y="0" width="56" height="56" rx="12" fill="#0369a1" fill-opacity="0.2" stroke="#0284c7" stroke-width="1.2" />
+    <!-- Pulse chart icon -->
+    <path d="M 12 36 L 22 22 L 32 30 L 44 14" fill="none" stroke="#00f2fe" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+    <circle cx="44" cy="14" r="3" fill="#38bdf8" />
+  </g>
+
+  <!-- Header Info -->
+  <g transform="translate(104, 38)">
+    <!-- Category Badge -->
+    <rect x="0" y="0" width="220" height="20" rx="5" fill="#0284c7" fill-opacity="0.2" stroke="#0284c7" stroke-width="1" stroke-opacity="0.5" />
+    <text x="8" y="14" fill="#38bdf8" class="mono badge">◈ ML &amp; PREDICTIVE ANALYTICS</text>
+
+    <!-- Title -->
+    <text x="0" y="44" fill="url(#cyanText)" class="sans title">Customer Churn Analytics Platform</text>
+  </g>
+
+  <!-- Description -->
+  <g transform="translate(104, 110)">
+    <text x="0" y="0" class="sans desc">
+      End-to-end customer retention intelligence platform integrating exploratory analysis, predictive ML models
+    </text>
+    <text x="0" y="20" class="sans desc">
+      (XGBoost, Random Forest, Logistic Regression), SQL behavioral query engines, and executive Tableau dashboards.
+    </text>
+  </g>
+
+  <!-- Feature Tags / Tech Stack Row -->
+  <g transform="translate(104, 164)">
+    <!-- Pill 1 -->
+    <rect x="0" y="0" width="70" height="24" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="14" y="16" class="mono tech-pill">Python</text>
+
+    <!-- Pill 2 -->
+    <rect x="78" y="0" width="55" height="24" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="14" y="16" class="mono tech-pill">SQL</text>
+
+    <!-- Pill 3 -->
+    <rect x="141" y="0" width="82" height="24" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="12" y="16" class="mono tech-pill">XGBoost</text>
+
+    <!-- Pill 4 -->
+    <rect x="231" y="0" width="115" height="24" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="12" y="16" class="mono tech-pill">Scikit-learn</text>
+
+    <!-- Pill 5 -->
+    <rect x="354" y="0" width="80" height="24" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="12" y="16" class="mono tech-pill">Tableau</text>
+  </g>
+
+  <!-- Right Side Visual / Button -->
+  <g transform="translate(710, 160)">
+    <rect x="0" y="0" width="156" height="32" rx="8" fill="#00f2fe" fill-opacity="0.12" stroke="#00f2fe" stroke-width="1.2" />
+    <text x="20" y="21" class="mono" font-size="12" font-weight="700" fill="#00f2fe">VIEW REPO ➔</text>
+  </g>
+</svg>
