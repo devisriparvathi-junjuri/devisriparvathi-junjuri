@@ -52,7 +52,7 @@
         <li>💻 <strong>Primary Focus:</strong> Software Engineering &amp; Python Architecture</li>
         <li>📊 <strong>Analytics &amp; ML:</strong> Advanced SQL, Predictive Modeling, Exploratory Data Analysis</li>
         <li>🗄️ <strong>Data Storage:</strong> PostgreSQL schema design, integrity validation, analytical views</li>
-        <li>🌱 <strong>Current Expansion:</strong> Java, Data Structures &amp; Algorithms, Backend APIs, Cloud &amp; DevOps</li>
+        <li>🌱 <strong>Current Expansion:</strong> Java, Data Structures &amp; Algorithms, Backend APIs, Cloud Computing</li>
       </ul>
     </td>
     <td width="44%" valign="middle" align="center">
