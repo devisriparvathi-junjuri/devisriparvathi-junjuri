@@ -1,0 +1,169 @@
+diff --git a/assets/developer-card.svg b/assets/developer-card.svg
+index 0ccc94a..11956fb 100644
+--- a/assets/developer-card.svg
++++ b/assets/developer-card.svg
+@@ -43,37 +43,37 @@
+   <!-- Row 1 -->
+   <g transform="translate(24, 70)">
+     <text x="0" y="0" class="mono key">"developer":</text>
+-    <text x="120" y="0" class="mono val accent">"Devi Sri Parvathi Junjuri"</text>
++    <text x="138" y="0" class="mono val accent">"Devi Sri Parvathi Junjuri"</text>
+   </g>
+ 
+   <!-- Row 2 -->
+   <g transform="translate(24, 96)">
+     <text x="0" y="0" class="mono key">"education":</text>
+-    <text x="120" y="0" class="mono val">"B.Sc. Computer Science"</text>
++    <text x="138" y="0" class="mono val">"B.Sc. Computer Science"</text>
+   </g>
+ 
+   <!-- Row 3 -->
+   <g transform="translate(24, 122)">
+     <text x="0" y="0" class="mono key">"focus_areas":</text>
+-    <text x="120" y="0" class="mono val purple">["SWE", "Analytics", "AI"]</text>
++    <text x="138" y="0" class="mono val purple">["SWE", "Analytics", "AI"]</text>
+   </g>
+ 
+   <!-- Row 4 -->
+   <g transform="translate(24, 148)">
+     <text x="0" y="0" class="mono key">"core_languages":</text>
+-    <text x="120" y="0" class="mono val">["Python", "SQL", "C"]</text>
++    <text x="138" y="0" class="mono val">["Python", "SQL", "C"]</text>
+   </g>
+ 
+   <!-- Row 5 -->
+   <g transform="translate(24, 174)">
+     <text x="0" y="0" class="mono key">"databases":</text>
+-    <text x="120" y="0" class="mono val">["PostgreSQL", "MySQL"]</text>
++    <text x="138" y="0" class="mono val">["PostgreSQL", "MySQL"]</text>
+   </g>
+ 
+   <!-- Row 6 -->
+   <g transform="translate(24, 200)">
+     <text x="0" y="0" class="mono key">"learning":</text>
+-    <text x="120" y="0" class="mono val" fill="#38bdf8">["Java", "DSA", "DevOps"]</text>
++    <text x="138" y="0" class="mono val" fill="#38bdf8">["Java", "DSA", "DevOps"]</text>
+   </g>
+ 
+   <!-- Mini Progress / Stats Box at Bottom -->
+diff --git a/assets/hero-banner.svg b/assets/hero-banner.svg
+index 443b965..5da1721 100644
+--- a/assets/hero-banner.svg
++++ b/assets/hero-banner.svg
+@@ -129,16 +129,16 @@
+   <!-- Telemetry Tags -->
+   <g transform="translate(42, 74)">
+     <!-- Tag 1 -->
+-    <rect x="0" y="0" width="170" height="24" rx="6" fill="#0369a1" fill-opacity="0.18" stroke="#0284c7" stroke-width="1" stroke-opacity="0.5" />
++    <rect x="0" y="0" width="174" height="24" rx="6" fill="#0369a1" fill-opacity="0.18" stroke="#0284c7" stroke-width="1" stroke-opacity="0.5" />
+     <text x="12" y="16" fill="#38bdf8" class="mono telemetry-tag">⚡ SOFTWARE ENGINEER</text>
+ 
+     <!-- Tag 2 -->
+-    <rect x="180" y="0" width="168" height="24" rx="6" fill="#581c87" fill-opacity="0.22" stroke="#9333ea" stroke-width="1" stroke-opacity="0.5" />
+-    <text x="192" y="16" fill="#c084fc" class="mono telemetry-tag">◈ DATA &amp; AI DEVELOPER</text>
++    <rect x="184" y="0" width="188" height="24" rx="6" fill="#581c87" fill-opacity="0.22" stroke="#9333ea" stroke-width="1" stroke-opacity="0.5" />
++    <text x="196" y="16" fill="#c084fc" class="mono telemetry-tag">◈ DATA &amp; AI DEVELOPER</text>
+ 
+     <!-- Tag 3 -->
+-    <rect x="358" y="0" width="186" height="24" rx="6" fill="#1e293b" fill-opacity="0.6" stroke="#475569" stroke-width="1" stroke-opacity="0.5" />
+-    <text x="370" y="16" fill="#94a3b8" class="mono telemetry-tag">✦ B.SC. COMPUTER SCIENCE</text>
++    <rect x="382" y="0" width="210" height="24" rx="6" fill="#1e293b" fill-opacity="0.6" stroke="#475569" stroke-width="1" stroke-opacity="0.5" />
++    <text x="394" y="16" fill="#94a3b8" class="mono telemetry-tag">✦ B.SC. COMPUTER SCIENCE</text>
+   </g>
+ 
+   <!-- Main Name Title -->
+diff --git a/assets/project-churn.svg b/assets/project-churn.svg
+index 435dda5..dba9906 100644
+--- a/assets/project-churn.svg
++++ b/assets/project-churn.svg
+@@ -49,7 +49,7 @@
+   <!-- Header Info -->
+   <g transform="translate(104, 38)">
+     <!-- Category Badge -->
+-    <rect x="0" y="0" width="220" height="20" rx="5" fill="#0284c7" fill-opacity="0.2" stroke="#0284c7" stroke-width="1" stroke-opacity="0.5" />
++    <rect x="0" y="0" width="212" height="20" rx="5" fill="#0284c7" fill-opacity="0.2" stroke="#0284c7" stroke-width="1" stroke-opacity="0.5" />
+     <text x="8" y="14" fill="#38bdf8" class="mono badge">◈ ML &amp; PREDICTIVE ANALYTICS</text>
+ 
+     <!-- Title -->
+@@ -69,24 +69,24 @@
+   <!-- Feature Tags / Tech Stack Row -->
+   <g transform="translate(104, 164)">
+     <!-- Pill 1 -->
+-    <rect x="0" y="0" width="70" height="24" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
++    <rect x="0" y="0" width="68" height="24" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
+     <text x="14" y="16" class="mono tech-pill">Python</text>
+ 
+     <!-- Pill 2 -->
+-    <rect x="78" y="0" width="55" height="24" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
+-    <text x="14" y="16" class="mono tech-pill">SQL</text>
++    <rect x="76" y="0" width="48" height="24" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
++    <text x="90" y="16" class="mono tech-pill">SQL</text>
+ 
+     <!-- Pill 3 -->
+-    <rect x="141" y="0" width="82" height="24" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
+-    <text x="12" y="16" class="mono tech-pill">XGBoost</text>
++    <rect x="132" y="0" width="75" height="24" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
++    <text x="146" y="16" class="mono tech-pill">XGBoost</text>
+ 
+     <!-- Pill 4 -->
+-    <rect x="231" y="0" width="115" height="24" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
+-    <text x="12" y="16" class="mono tech-pill">Scikit-learn</text>
++    <rect x="215" y="0" width="108" height="24" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
++    <text x="229" y="16" class="mono tech-pill">Scikit-learn</text>
+ 
+     <!-- Pill 5 -->
+-    <rect x="354" y="0" width="80" height="24" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
+-    <text x="12" y="16" class="mono tech-pill">Tableau</text>
++    <rect x="331" y="0" width="75" height="24" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
++    <text x="345" y="16" class="mono tech-pill">Tableau</text>
+   </g>
+ 
+   <!-- Right Side Visual / Button -->
+diff --git a/assets/project-olist.svg b/assets/project-olist.svg
+index af0e5e5..ba6dede 100644
+--- a/assets/project-olist.svg
++++ b/assets/project-olist.svg
+@@ -50,7 +50,7 @@
+   <!-- Header Info -->
+   <g transform="translate(104, 38)">
+     <!-- Category Badge -->
+-    <rect x="0" y="0" width="240" height="20" rx="5" fill="#581c87" fill-opacity="0.25" stroke="#a855f7" stroke-width="1" stroke-opacity="0.5" />
++    <rect x="0" y="0" width="262" height="20" rx="5" fill="#581c87" fill-opacity="0.25" stroke="#a855f7" stroke-width="1" stroke-opacity="0.5" />
+     <text x="8" y="14" fill="#c084fc" class="mono badge">◈ DATABASE &amp; BUSINESS INTELLIGENCE</text>
+ 
+     <!-- Title -->
+@@ -70,24 +70,24 @@
+   <!-- Feature Tags / Tech Stack Row -->
+   <g transform="translate(104, 164)">
+     <!-- Pill 1 -->
+-    <rect x="0" y="0" width="105" height="24" rx="6" fill="#1e1b4b" stroke="#312e81" stroke-width="1" />
+-    <text x="12" y="16" class="mono tech-pill">PostgreSQL</text>
++    <rect x="0" y="0" width="94" height="24" rx="6" fill="#1e1b4b" stroke="#312e81" stroke-width="1" />
++    <text x="14" y="16" class="mono tech-pill">PostgreSQL</text>
+ 
+     <!-- Pill 2 -->
+-    <rect x="113" y="0" width="108" height="24" rx="6" fill="#1e1b4b" stroke="#312e81" stroke-width="1" />
+-    <text x="12" y="16" class="mono tech-pill">Advanced SQL</text>
++    <rect x="102" y="0" width="108" height="24" rx="6" fill="#1e1b4b" stroke="#312e81" stroke-width="1" />
++    <text x="116" y="16" class="mono tech-pill">Advanced SQL</text>
+ 
+     <!-- Pill 3 -->
+-    <rect x="229" y="0" width="86" height="24" rx="6" fill="#1e1b4b" stroke="#312e81" stroke-width="1" />
+-    <text x="12" y="16" class="mono tech-pill">Power BI</text>
++    <rect x="218" y="0" width="81" height="24" rx="6" fill="#1e1b4b" stroke="#312e81" stroke-width="1" />
++    <text x="232" y="16" class="mono tech-pill">Power BI</text>
+ 
+     <!-- Pill 4 -->
+-    <rect x="323" y="0" width="82" height="24" rx="6" fill="#1e1b4b" stroke="#312e81" stroke-width="1" />
+-    <text x="12" y="16" class="mono tech-pill">Tableau</text>
++    <rect x="307" y="0" width="75" height="24" rx="6" fill="#1e1b4b" stroke="#312e81" stroke-width="1" />
++    <text x="321" y="16" class="mono tech-pill">Tableau</text>
+ 
+     <!-- Pill 5 -->
+-    <rect x="413" y="0" width="122" height="24" rx="6" fill="#1e1b4b" stroke="#312e81" stroke-width="1" />
+-    <text x="12" y="16" class="mono tech-pill">Data Modeling</text>
++    <rect x="390" y="0" width="114" height="24" rx="6" fill="#1e1b4b" stroke="#312e81" stroke-width="1" />
++    <text x="404" y="16" class="mono tech-pill">Data Modeling</text>
+   </g>
+ 
+   <!-- Right Side Visual / Button -->
